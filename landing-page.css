@@ -70,8 +70,9 @@ ul{
 
 img{
     margin: 50px;
-    width: 700px;
-    height: 400px;
+    width: 400px;
+    height: 200px;
+    margin-top: 0px;
 }
 
 .intro-sign-up{
@@ -84,3 +85,4 @@ img{
     border-color: #3882f6;
     border-radius: 20px;
 }
+
