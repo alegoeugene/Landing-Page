@@ -135,6 +135,32 @@ h2{
     text-align: center;
 }
 
+.section-3{
+    display: flex;
+    background-color: #e5e7eb;
+    height: 300px;
+    margin: ;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ref{
+    text-align: right;
+    margin-left: 450px;
+    font-size: 20px;
+   
+}
+
+.Quote{
+    width: px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    font-weight: lighter;
+    font-style: italic;
+}
+
 
 
 
