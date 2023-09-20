@@ -22,9 +22,19 @@ body{font-family: system-ui, -apple-system, BlinkMacSystemFont,
     font-size: 18px;
     color: #e5e7eb;
 }
+.header-link{
+    margin-right: 30px;
+}
+.nav-right{
+    
+    margin-right: -20px;
+}
 .nav-left{
     font-size: 24px;
     color: #f9faf8;
+    align-items: end;
+    justify-content: end;
+    margin-right: 50px;
     
 }
 
@@ -46,6 +56,8 @@ ul{
     width: 50%;
     justify-content: center;
     align-items: center;
+    margin-right: 30px;
+    
 }
 
 .intro-content{
@@ -198,9 +210,37 @@ h2{
 .body-4-right{
     
     margin-top: 35px;
-    margin-bottom: 35px;
-    
+    margin-bottom: 35px;    
     margin-right: 100px;
+}
+.button-4{    
+    width: 50px;
+    background-color: #3882f6;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid;
+    border-radius: 7px;
+    
+}
+.footer{
+    display: flex;
+   
+    background-color: #1f2937;
+    height: 100px;
+    margin-top: 0%;
+    color: white;
+    align-content: center;
+    justify-content: center;
+    margin-bottom: 50px;
+    text-align: justify;
+    margin-top: ;
+}
+.foot-note{
+    
+    align-items: center;
+    margin-top: 30px;
+    
 }
 
 
